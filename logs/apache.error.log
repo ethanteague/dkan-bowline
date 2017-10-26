@@ -1,0 +1,186 @@
+[Thu Oct 26 00:47:29.505794 2017] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Oct 26 00:47:29.505817 2017] [ssl:info] [pid 1] AH01883: Init: Initialized OpenSSL library
+[Thu Oct 26 00:47:29.505848 2017] [ssl:debug] [pid 1] ssl_engine_init.c(260): AH01886: SSL FIPS mode disabled
+[Thu Oct 26 00:47:29.507583 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module access_compat_module from /etc/httpd/modules/mod_access_compat.so
+[Thu Oct 26 00:47:29.507630 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module actions_module from /etc/httpd/modules/mod_actions.so
+[Thu Oct 26 00:47:29.507677 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module alias_module from /etc/httpd/modules/mod_alias.so
+[Thu Oct 26 00:47:29.507730 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module allowmethods_module from /etc/httpd/modules/mod_allowmethods.so
+[Thu Oct 26 00:47:29.507784 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module auth_basic_module from /etc/httpd/modules/mod_auth_basic.so
+[Thu Oct 26 00:47:29.507836 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module auth_digest_module from /etc/httpd/modules/mod_auth_digest.so
+[Thu Oct 26 00:47:29.507876 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_anon_module from /etc/httpd/modules/mod_authn_anon.so
+[Thu Oct 26 00:47:29.507931 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_core_module from /etc/httpd/modules/mod_authn_core.so
+[Thu Oct 26 00:47:29.507991 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_dbd_module from /etc/httpd/modules/mod_authn_dbd.so
+[Thu Oct 26 00:47:29.508029 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_dbm_module from /etc/httpd/modules/mod_authn_dbm.so
+[Thu Oct 26 00:47:29.508068 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_file_module from /etc/httpd/modules/mod_authn_file.so
+[Thu Oct 26 00:47:29.508112 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_socache_module from /etc/httpd/modules/mod_authn_socache.so
+[Thu Oct 26 00:47:29.508159 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_core_module from /etc/httpd/modules/mod_authz_core.so
+[Thu Oct 26 00:47:29.508310 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_dbd_module from /etc/httpd/modules/mod_authz_dbd.so
+[Thu Oct 26 00:47:29.508355 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_dbm_module from /etc/httpd/modules/mod_authz_dbm.so
+[Thu Oct 26 00:47:29.508398 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_groupfile_module from /etc/httpd/modules/mod_authz_groupfile.so
+[Thu Oct 26 00:47:29.508439 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_host_module from /etc/httpd/modules/mod_authz_host.so
+[Thu Oct 26 00:47:29.508479 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_owner_module from /etc/httpd/modules/mod_authz_owner.so
+[Thu Oct 26 00:47:29.508516 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_user_module from /etc/httpd/modules/mod_authz_user.so
+[Thu Oct 26 00:47:29.508577 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module autoindex_module from /etc/httpd/modules/mod_autoindex.so
+[Thu Oct 26 00:47:29.508654 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module cache_module from /etc/httpd/modules/mod_cache.so
+[Thu Oct 26 00:47:29.508793 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module cache_disk_module from /etc/httpd/modules/mod_cache_disk.so
+[Thu Oct 26 00:47:29.508838 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module data_module from /etc/httpd/modules/mod_data.so
+[Thu Oct 26 00:47:29.508890 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dbd_module from /etc/httpd/modules/mod_dbd.so
+[Thu Oct 26 00:47:29.509007 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module deflate_module from /etc/httpd/modules/mod_deflate.so
+[Thu Oct 26 00:47:29.509054 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dir_module from /etc/httpd/modules/mod_dir.so
+[Thu Oct 26 00:47:29.509119 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dumpio_module from /etc/httpd/modules/mod_dumpio.so
+[Thu Oct 26 00:47:29.509179 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module echo_module from /etc/httpd/modules/mod_echo.so
+[Thu Oct 26 00:47:29.509256 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module env_module from /etc/httpd/modules/mod_env.so
+[Thu Oct 26 00:47:29.509326 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module expires_module from /etc/httpd/modules/mod_expires.so
+[Thu Oct 26 00:47:29.509390 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module ext_filter_module from /etc/httpd/modules/mod_ext_filter.so
+[Thu Oct 26 00:47:29.509436 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module filter_module from /etc/httpd/modules/mod_filter.so
+[Thu Oct 26 00:47:29.509488 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module headers_module from /etc/httpd/modules/mod_headers.so
+[Thu Oct 26 00:47:29.509544 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module include_module from /etc/httpd/modules/mod_include.so
+[Thu Oct 26 00:47:29.509599 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module info_module from /etc/httpd/modules/mod_info.so
+[Thu Oct 26 00:47:29.509650 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module log_config_module from /etc/httpd/modules/mod_log_config.so
+[Thu Oct 26 00:47:29.509694 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module logio_module from /etc/httpd/modules/mod_logio.so
+[Thu Oct 26 00:47:29.509745 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module mime_magic_module from /etc/httpd/modules/mod_mime_magic.so
+[Thu Oct 26 00:47:29.509794 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module mime_module from /etc/httpd/modules/mod_mime.so
+[Thu Oct 26 00:47:29.509857 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module negotiation_module from /etc/httpd/modules/mod_negotiation.so
+[Thu Oct 26 00:47:29.509903 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module remoteip_module from /etc/httpd/modules/mod_remoteip.so
+[Thu Oct 26 00:47:29.509963 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module reqtimeout_module from /etc/httpd/modules/mod_reqtimeout.so
+[Thu Oct 26 00:47:29.510043 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module rewrite_module from /etc/httpd/modules/mod_rewrite.so
+[Thu Oct 26 00:47:29.510111 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module setenvif_module from /etc/httpd/modules/mod_setenvif.so
+[Thu Oct 26 00:47:29.510175 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module slotmem_plain_module from /etc/httpd/modules/mod_slotmem_plain.so
+[Thu Oct 26 00:47:29.510226 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module slotmem_shm_module from /etc/httpd/modules/mod_slotmem_shm.so
+[Thu Oct 26 00:47:29.510275 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module socache_dbm_module from /etc/httpd/modules/mod_socache_dbm.so
+[Thu Oct 26 00:47:29.510350 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module socache_memcache_module from /etc/httpd/modules/mod_socache_memcache.so
+[Thu Oct 26 00:47:29.510399 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module socache_shmcb_module from /etc/httpd/modules/mod_socache_shmcb.so
+[Thu Oct 26 00:47:29.510469 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module status_module from /etc/httpd/modules/mod_status.so
+[Thu Oct 26 00:47:29.510518 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module substitute_module from /etc/httpd/modules/mod_substitute.so
+[Thu Oct 26 00:47:29.510564 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module suexec_module from /etc/httpd/modules/mod_suexec.so
+[Thu Oct 26 00:47:29.510618 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module unique_id_module from /etc/httpd/modules/mod_unique_id.so
+[Thu Oct 26 00:47:29.510687 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module unixd_module from /etc/httpd/modules/mod_unixd.so
+[Thu Oct 26 00:47:29.510742 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module userdir_module from /etc/httpd/modules/mod_userdir.so
+[Thu Oct 26 00:47:29.510789 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module version_module from /etc/httpd/modules/mod_version.so
+[Thu Oct 26 00:47:29.510841 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module vhost_alias_module from /etc/httpd/modules/mod_vhost_alias.so
+[Thu Oct 26 00:47:29.510991 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dav_module from /etc/httpd/modules/mod_dav.so
+[Thu Oct 26 00:47:29.511165 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dav_fs_module from /etc/httpd/modules/mod_dav_fs.so
+[Thu Oct 26 00:47:29.511256 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dav_lock_module from /etc/httpd/modules/mod_dav_lock.so
+[Thu Oct 26 00:47:29.511805 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lua_module from /etc/httpd/modules/mod_lua.so
+[Thu Oct 26 00:47:29.511960 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module mpm_prefork_module from /etc/httpd/modules/mod_mpm_prefork.so
+[Thu Oct 26 00:47:29.512212 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_module from /etc/httpd/modules/mod_proxy.so
+[Thu Oct 26 00:47:29.512383 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_bybusyness_module from /etc/httpd/modules/mod_lbmethod_bybusyness.so
+[Thu Oct 26 00:47:29.512516 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_byrequests_module from /etc/httpd/modules/mod_lbmethod_byrequests.so
+[Thu Oct 26 00:47:29.512617 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_bytraffic_module from /etc/httpd/modules/mod_lbmethod_bytraffic.so
+[Thu Oct 26 00:47:29.512697 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_heartbeat_module from /etc/httpd/modules/mod_lbmethod_heartbeat.so
+[Thu Oct 26 00:47:29.512834 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_ajp_module from /etc/httpd/modules/mod_proxy_ajp.so
+[Thu Oct 26 00:47:29.513006 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_balancer_module from /etc/httpd/modules/mod_proxy_balancer.so
+[Thu Oct 26 00:47:29.513112 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_connect_module from /etc/httpd/modules/mod_proxy_connect.so
+[Thu Oct 26 00:47:29.513186 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_express_module from /etc/httpd/modules/mod_proxy_express.so
+[Thu Oct 26 00:47:29.513326 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_fcgi_module from /etc/httpd/modules/mod_proxy_fcgi.so
+[Thu Oct 26 00:47:29.513385 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_fdpass_module from /etc/httpd/modules/mod_proxy_fdpass.so
+[Thu Oct 26 00:47:29.513467 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_ftp_module from /etc/httpd/modules/mod_proxy_ftp.so
+[Thu Oct 26 00:47:29.513569 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_http_module from /etc/httpd/modules/mod_proxy_http.so
+[Thu Oct 26 00:47:29.513656 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_scgi_module from /etc/httpd/modules/mod_proxy_scgi.so
+[Thu Oct 26 00:47:29.513721 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_wstunnel_module from /etc/httpd/modules/mod_proxy_wstunnel.so
+[Thu Oct 26 00:47:29.518045 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module ssl_module from /etc/httpd/modules/mod_ssl.so
+[Thu Oct 26 00:47:29.519086 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module systemd_module from /etc/httpd/modules/mod_systemd.so
+[Thu Oct 26 00:47:29.519212 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module cgi_module from /etc/httpd/modules/mod_cgi.so
+[Thu Oct 26 00:47:29.519440 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module fcgid_module from /etc/httpd/modules/mod_fcgid.so
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.23.0.6. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 26 00:47:29.522200 2017] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Oct 26 00:47:29.522897 2017] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Oct 26 00:47:29.522911 2017] [ssl:info] [pid 1] AH01883: Init: Initialized OpenSSL library
+[Thu Oct 26 00:47:29.522942 2017] [ssl:debug] [pid 1] ssl_engine_init.c(260): AH01886: SSL FIPS mode disabled
+[Thu Oct 26 00:47:29.526143 2017] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Oct 26 00:47:29.526158 2017] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND -e debug'
+[Thu Oct 26 00:52:43.426073 2017] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Oct 26 00:52:43.436726 2017] [auth_digest:info] [pid 1] AH01756: cleaning up shared memory
+[Thu Oct 26 00:52:46.397645 2017] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Oct 26 00:52:46.397670 2017] [ssl:info] [pid 1] AH01883: Init: Initialized OpenSSL library
+[Thu Oct 26 00:52:46.397716 2017] [ssl:debug] [pid 1] ssl_engine_init.c(260): AH01886: SSL FIPS mode disabled
+[Thu Oct 26 00:52:46.399783 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module access_compat_module from /etc/httpd/modules/mod_access_compat.so
+[Thu Oct 26 00:52:46.399833 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module actions_module from /etc/httpd/modules/mod_actions.so
+[Thu Oct 26 00:52:46.399879 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module alias_module from /etc/httpd/modules/mod_alias.so
+[Thu Oct 26 00:52:46.399921 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module allowmethods_module from /etc/httpd/modules/mod_allowmethods.so
+[Thu Oct 26 00:52:46.399977 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module auth_basic_module from /etc/httpd/modules/mod_auth_basic.so
+[Thu Oct 26 00:52:46.400030 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module auth_digest_module from /etc/httpd/modules/mod_auth_digest.so
+[Thu Oct 26 00:52:46.400070 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_anon_module from /etc/httpd/modules/mod_authn_anon.so
+[Thu Oct 26 00:52:46.400112 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_core_module from /etc/httpd/modules/mod_authn_core.so
+[Thu Oct 26 00:52:46.400153 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_dbd_module from /etc/httpd/modules/mod_authn_dbd.so
+[Thu Oct 26 00:52:46.400356 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_dbm_module from /etc/httpd/modules/mod_authn_dbm.so
+[Thu Oct 26 00:52:46.400399 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_file_module from /etc/httpd/modules/mod_authn_file.so
+[Thu Oct 26 00:52:46.400449 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authn_socache_module from /etc/httpd/modules/mod_authn_socache.so
+[Thu Oct 26 00:52:46.400500 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_core_module from /etc/httpd/modules/mod_authz_core.so
+[Thu Oct 26 00:52:46.400544 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_dbd_module from /etc/httpd/modules/mod_authz_dbd.so
+[Thu Oct 26 00:52:46.400587 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_dbm_module from /etc/httpd/modules/mod_authz_dbm.so
+[Thu Oct 26 00:52:46.400629 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_groupfile_module from /etc/httpd/modules/mod_authz_groupfile.so
+[Thu Oct 26 00:52:46.400670 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_host_module from /etc/httpd/modules/mod_authz_host.so
+[Thu Oct 26 00:52:46.400711 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_owner_module from /etc/httpd/modules/mod_authz_owner.so
+[Thu Oct 26 00:52:46.400775 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module authz_user_module from /etc/httpd/modules/mod_authz_user.so
+[Thu Oct 26 00:52:46.400868 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module autoindex_module from /etc/httpd/modules/mod_autoindex.so
+[Thu Oct 26 00:52:46.400979 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module cache_module from /etc/httpd/modules/mod_cache.so
+[Thu Oct 26 00:52:46.401134 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module cache_disk_module from /etc/httpd/modules/mod_cache_disk.so
+[Thu Oct 26 00:52:46.401210 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module data_module from /etc/httpd/modules/mod_data.so
+[Thu Oct 26 00:52:46.401307 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dbd_module from /etc/httpd/modules/mod_dbd.so
+[Thu Oct 26 00:52:46.401475 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module deflate_module from /etc/httpd/modules/mod_deflate.so
+[Thu Oct 26 00:52:46.401538 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dir_module from /etc/httpd/modules/mod_dir.so
+[Thu Oct 26 00:52:46.401580 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dumpio_module from /etc/httpd/modules/mod_dumpio.so
+[Thu Oct 26 00:52:46.401622 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module echo_module from /etc/httpd/modules/mod_echo.so
+[Thu Oct 26 00:52:46.401680 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module env_module from /etc/httpd/modules/mod_env.so
+[Thu Oct 26 00:52:46.401744 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module expires_module from /etc/httpd/modules/mod_expires.so
+[Thu Oct 26 00:52:46.401813 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module ext_filter_module from /etc/httpd/modules/mod_ext_filter.so
+[Thu Oct 26 00:52:46.401861 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module filter_module from /etc/httpd/modules/mod_filter.so
+[Thu Oct 26 00:52:46.401930 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module headers_module from /etc/httpd/modules/mod_headers.so
+[Thu Oct 26 00:52:46.402004 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module include_module from /etc/httpd/modules/mod_include.so
+[Thu Oct 26 00:52:46.402101 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module info_module from /etc/httpd/modules/mod_info.so
+[Thu Oct 26 00:52:46.402157 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module log_config_module from /etc/httpd/modules/mod_log_config.so
+[Thu Oct 26 00:52:46.402204 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module logio_module from /etc/httpd/modules/mod_logio.so
+[Thu Oct 26 00:52:46.402259 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module mime_magic_module from /etc/httpd/modules/mod_mime_magic.so
+[Thu Oct 26 00:52:46.402326 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module mime_module from /etc/httpd/modules/mod_mime.so
+[Thu Oct 26 00:52:46.402445 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module negotiation_module from /etc/httpd/modules/mod_negotiation.so
+[Thu Oct 26 00:52:46.402546 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module remoteip_module from /etc/httpd/modules/mod_remoteip.so
+[Thu Oct 26 00:52:46.402610 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module reqtimeout_module from /etc/httpd/modules/mod_reqtimeout.so
+[Thu Oct 26 00:52:46.402677 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module rewrite_module from /etc/httpd/modules/mod_rewrite.so
+[Thu Oct 26 00:52:46.402756 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module setenvif_module from /etc/httpd/modules/mod_setenvif.so
+[Thu Oct 26 00:52:46.402847 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module slotmem_plain_module from /etc/httpd/modules/mod_slotmem_plain.so
+[Thu Oct 26 00:52:46.402922 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module slotmem_shm_module from /etc/httpd/modules/mod_slotmem_shm.so
+[Thu Oct 26 00:52:46.403059 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module socache_dbm_module from /etc/httpd/modules/mod_socache_dbm.so
+[Thu Oct 26 00:52:46.403154 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module socache_memcache_module from /etc/httpd/modules/mod_socache_memcache.so
+[Thu Oct 26 00:52:46.403258 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module socache_shmcb_module from /etc/httpd/modules/mod_socache_shmcb.so
+[Thu Oct 26 00:52:46.403398 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module status_module from /etc/httpd/modules/mod_status.so
+[Thu Oct 26 00:52:46.403509 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module substitute_module from /etc/httpd/modules/mod_substitute.so
+[Thu Oct 26 00:52:46.403591 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module suexec_module from /etc/httpd/modules/mod_suexec.so
+[Thu Oct 26 00:52:46.403670 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module unique_id_module from /etc/httpd/modules/mod_unique_id.so
+[Thu Oct 26 00:52:46.403756 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module unixd_module from /etc/httpd/modules/mod_unixd.so
+[Thu Oct 26 00:52:46.403827 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module userdir_module from /etc/httpd/modules/mod_userdir.so
+[Thu Oct 26 00:52:46.403890 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module version_module from /etc/httpd/modules/mod_version.so
+[Thu Oct 26 00:52:46.403957 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module vhost_alias_module from /etc/httpd/modules/mod_vhost_alias.so
+[Thu Oct 26 00:52:46.405079 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dav_module from /etc/httpd/modules/mod_dav.so
+[Thu Oct 26 00:52:46.405264 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dav_fs_module from /etc/httpd/modules/mod_dav_fs.so
+[Thu Oct 26 00:52:46.405346 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module dav_lock_module from /etc/httpd/modules/mod_dav_lock.so
+[Thu Oct 26 00:52:46.405834 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lua_module from /etc/httpd/modules/mod_lua.so
+[Thu Oct 26 00:52:46.405934 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module mpm_prefork_module from /etc/httpd/modules/mod_mpm_prefork.so
+[Thu Oct 26 00:52:46.406080 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_module from /etc/httpd/modules/mod_proxy.so
+[Thu Oct 26 00:52:46.406140 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_bybusyness_module from /etc/httpd/modules/mod_lbmethod_bybusyness.so
+[Thu Oct 26 00:52:46.406191 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_byrequests_module from /etc/httpd/modules/mod_lbmethod_byrequests.so
+[Thu Oct 26 00:52:46.406239 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_bytraffic_module from /etc/httpd/modules/mod_lbmethod_bytraffic.so
+[Thu Oct 26 00:52:46.406295 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module lbmethod_heartbeat_module from /etc/httpd/modules/mod_lbmethod_heartbeat.so
+[Thu Oct 26 00:52:46.406395 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_ajp_module from /etc/httpd/modules/mod_proxy_ajp.so
+[Thu Oct 26 00:52:46.406480 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_balancer_module from /etc/httpd/modules/mod_proxy_balancer.so
+[Thu Oct 26 00:52:46.406543 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_connect_module from /etc/httpd/modules/mod_proxy_connect.so
+[Thu Oct 26 00:52:46.406597 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_express_module from /etc/httpd/modules/mod_proxy_express.so
+[Thu Oct 26 00:52:46.406662 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_fcgi_module from /etc/httpd/modules/mod_proxy_fcgi.so
+[Thu Oct 26 00:52:46.406717 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_fdpass_module from /etc/httpd/modules/mod_proxy_fdpass.so
+[Thu Oct 26 00:52:46.406807 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_ftp_module from /etc/httpd/modules/mod_proxy_ftp.so
+[Thu Oct 26 00:52:46.406897 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_http_module from /etc/httpd/modules/mod_proxy_http.so
+[Thu Oct 26 00:52:46.406985 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_scgi_module from /etc/httpd/modules/mod_proxy_scgi.so
+[Thu Oct 26 00:52:46.407049 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module proxy_wstunnel_module from /etc/httpd/modules/mod_proxy_wstunnel.so
+[Thu Oct 26 00:52:46.411345 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module ssl_module from /etc/httpd/modules/mod_ssl.so
+[Thu Oct 26 00:52:46.412434 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module systemd_module from /etc/httpd/modules/mod_systemd.so
+[Thu Oct 26 00:52:46.412569 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module cgi_module from /etc/httpd/modules/mod_cgi.so
+[Thu Oct 26 00:52:46.412799 2017] [so:debug] [pid 1] mod_so.c(266): AH01575: loaded module fcgid_module from /etc/httpd/modules/mod_fcgid.so
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.23.0.6. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 26 00:52:46.415530 2017] [auth_digest:notice] [pid 1] AH01757: generating secret for digest authentication ...
+[Thu Oct 26 00:52:46.416120 2017] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu Oct 26 00:52:46.416140 2017] [ssl:info] [pid 1] AH01883: Init: Initialized OpenSSL library
+[Thu Oct 26 00:52:46.416293 2017] [ssl:debug] [pid 1] ssl_engine_init.c(260): AH01886: SSL FIPS mode disabled
+[Thu Oct 26 00:52:46.419790 2017] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 configured -- resuming normal operations
+[Thu Oct 26 00:52:46.419832 2017] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND -e debug'
+[Thu Oct 26 17:28:33.535130 2017] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Oct 26 17:28:33.545446 2017] [auth_digest:info] [pid 1] AH01756: cleaning up shared memory
