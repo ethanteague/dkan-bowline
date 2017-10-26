@@ -1,0 +1,9 @@
+{
+    "cid": "8.1.15-commandfiles-2-e81f8c726f49849c1ae340223574a681",
+    "data": {
+        "views.d8": "\/var\/www\/vendor\/drush\/drush\/commands\/core\/views.d8.drush.inc",
+        "locale.d8": "\/var\/www\/vendor\/drush\/drush\/commands\/core\/locale.d8.drush.inc"
+    },
+    "created": 1508979179,
+    "expire": 0
+}
